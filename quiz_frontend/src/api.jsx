@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL = "http://127.0.0.1:8000/api/";
+const API_URL = "https://conceptile-quiz-app.onrender.com/api/";
 
 export const startQuiz = async () => {
   try {
